@@ -1,0 +1,33 @@
+{
+  "name": "nightmare-await-jquery-selectors",
+  "version": "0.0.1",
+  "description": "Add 'awaitSelectors' to nightmare. This gives you ability to use advanced CSS3 (JQuery) selectors for your 'wait()' methods.",
+  "main": "index.js",
+  "author": "Anthony Mugendi <ngurumugz@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nightmare",
+    "wait",
+    "sizzle",
+    "jquery",
+    "css",
+    "css",
+    "selectors",
+    "pseudo-selectors"
+  ],
+  "dependencies": {
+    "nightmare": "^3.0.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mugendi/nightmare-await-jquery-selectors.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mugendi/nightmare-await-jquery-selectors/issues"
+  },
+  "homepage": "https://github.com/mugendi/nightmare-await-jquery-selectors#readme"
+}
